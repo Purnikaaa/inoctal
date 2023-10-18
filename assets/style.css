@@ -275,3 +275,23 @@
     transition: 0.3s ease;
   }
 }
+
+/* Media queries for smartphone */
+@media screen and (max-width: 767px) {
+  .content {
+    margin-top: 40px;
+  }
+  .content h1 {
+    font-size: 2.5em;
+    line-height: 45px;
+    margin-bottom: 40px;
+  }
+
+  .content h1 span {
+    font-size: 1em;
+  }
+
+  .content p {
+    margin-bottom: 40px;
+  }
+}
