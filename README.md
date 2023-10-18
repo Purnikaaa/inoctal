@@ -1,5 +1,7 @@
 # travel-website-video-slider
 
+![Vista Previa del Sitio Web](assets/imagens/trave-website.gif)
+
 # English 
 # Responsive Travel Website with Background Video Slider
 
