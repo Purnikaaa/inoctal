@@ -1,44 +1,38 @@
-# travel-website-video-slider
+# Pikey_Peak trekking 
 
-![Vista Previa del Sitio Web](assets/imagens/trave-website.gif)
+1. First of all pick the design ideas for the blogs, Landing page , Itinery steps , Contact form . (Please provide the screenshot of these ideas and create the file "ideas.pdf")
+2. For this projectt first edit the iternay ideas  (Make sure its responsive)
+3. Now build the blogs ideas . (How we are going to handle blogs ?) What is the best static blog ideas ? Any platform ?? Write it in "ideas.pdf" with screenshot
+4. Write one draft sample in directtory /blogs/pikey-peak-trekking-intro.html 
 
-# English 
-# Responsive Travel Website with Background Video Slider
 
-🌟 Welcome to the responsive travel website with an engaging background video slider! 🌟
 
-I learned how to create this stunning web design using HTML, CSS, and JavaScript. The background video slider comes with navigation buttons that allow you to explore each slide, thanks to the magic of JavaScript. For smooth slide transitions, I used the fantastic `clip-path` property.
+Example: Research on jekyll seo ,  Example hugo is one another for static site , https://www.youtube.com/watch?v=6BRZ-yHjYwo , https://www.youtube.com/watch?v=LIFvgrRxdt4&t=315s
 
-## Credits
 
-This project was inspired by the insightful tutorial created by "Coding Snow" on YouTube. You can watch the tutorial [here](https://youtu.be/ThaIBFd387A).
+Maybe choose hugo or why choose other if found . 
 
-For this project, I utilized videos from [Pexels](http://pexels.com) 📹 and a collection of icons from [SVGRepo](https://www.svgrepo.com) 📈.
 
-## Experience It
+For designs you can look : https://dribbble.com/tags/trekking-website , https://99designs.com/inspiration/websites/travel , Choose appropriate deisign ideas for each section , Take screenshots and try to manage design . 
 
-Feel free to explore this captivating travel website by visiting the following link: [Travel Website with Background Video Slider](https://evelinalvarado.github.io/travel-website-video-slider/). 🌎
 
-Enjoy your virtual journey and get inspired! 🌟
 
-# Español
-# Sitio Web de Viajes Responsivo con Slider de Videos de Fondo
+Example: https://99designs.com/profiles/265914/designs/1708208 , Here we coulld design Recent Deals like this . Maybe for showcasing our blogs post , We could use deisgn like this : https://99designs.com/profiles/deansdesign/designs/1165268
 
-🌟 ¡Bienvenidos al sitio web de viajes responsivo con un cautivador slider de videos de fondo! 🌟
 
-En este proyecto, he aplicado mis habilidades en HTML, CSS y JavaScript para crear un sitio web de viajes elegante y fácil de usar.
+Take screenshot , Make ideas.pdf , What to place , What not to do ,
 
-El slider de videos de fondo está equipado con botones de navegación intuitivos, lo que proporciona una experiencia de navegación sin problemas. Las transiciones suaves entre las diapositivas se logran mediante la implementación de la propiedad `clip-path`.
 
-## Créditos
 
-Este proyecto fue inspirado por el esclarecedor tutorial creado por "Coding Snow" en YouTube. Puedes ver el tutorial [aquí](https://youtu.be/ThaIBFd387A).
 
-Para este proyecto, utilicé videos de [Pexels](http://pexels.com) 📹 y una colección de iconos de [SVGRepo](https://www.svgrepo.com) 📈.
 
-## ¡Explóralo!
+TO run the project: python3 -m http.server <yourport> 
 
-Siéntete libre de explorar este cautivador sitio web de viajes visitando el siguiente enlace: [Sitio Web de Viajes con Slider de Videos de Fondo](https://evelinalvarado.github.io/travel-website-video-slider/). 🌎
 
-¡Disfruta tu viaje virtual y déjate inspirar! 🌟
+
+
+
+
+
+
 
