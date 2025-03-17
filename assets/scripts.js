@@ -43,3 +43,36 @@ btns.forEach((btn, i) => {
     sliderNav(i);
   });
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+
+  // Open Modal Function
+  function openModal(imageSrc, altText) {
+    const modal = document.getElementById("imageModal");
+    const modalImage = document.getElementById("modalImage");
+    const caption = document.getElementById("caption");
+
+    modal.style.display = "block"; // Show modal
+    modalImage.src = imageSrc; // Set image source
+    caption.innerHTML = altText; // Set caption text
+  }
+
+  // Close Modal Function
+  function closeModal() {
+    const modal = document.getElementById("imageModal");
+    modal.style.display = "none"; // Hide modal
+  }
+
+  // Add event listeners to each image in the gallery
+  const galleryImages = document.querySelectorAll('.gallery-img');
+  galleryImages.forEach(image => {
+    image.addEventListener('click', function() {
+      openModal(image.src, image.alt); // Call openModal with the clicked image details
+    });
+  });
+
+  // Add the close modal event to the close button
+  const closeBtn = document.querySelector('.close-btn');
+  closeBtn.addEventListener('click', closeModal); // Add event listener to close button
+
+});
